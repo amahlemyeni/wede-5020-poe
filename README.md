@@ -1,26 +1,53 @@
-# Project Title
-Your project's title
-
-## Student Information
-**Student number:** Your student number <br>
-**Student Name:** Your full name
+# EcoCycle Solutions - Environmental Recycling Website
 
 ## Project Overview
+EcoCycle Solutions is a professional multi-page website for an environmental company founded in 2023 in South Africa. The website focuses on waste management, recycling education, climate action, and community empowerment.
 
-Pull this from your project proposal.
+The goal is to educate people, promote sustainable practices, and encourage community involvement in creating a cleaner and greener South Africa.
 
-## Website Goals and Objectives
+## Features
+- Clean, professional, and nature-inspired design
+- Earthy green and brown colour scheme
+- Services showcase
+- Free downloadable resources section
+- Easy contact options (WhatsApp, Call, Email)
+- Fully responsive layout
 
-Pull this from your project proposal.
+## Pages Included
+- `index.html` - Homepage
+- `about.html` - About Us (Mission & Vision)
+- `services.html` - Our Services
+- `resources.html` - Environmental Resources
+- `contact.html` - Contact Us
 
-## Timeline and Milestones
+## Target Audience
+Students, young adults, households, and small businesses who care about the environment and want to take practical action against waste and climate change.
 
-Pull this from your project proposal.
+## Technologies Used
+- HTML5
+- CSS3 (Grid and Flexbox)
+- Responsive design
 
-## Sitemap
+## Folder Structure
+ecocycle-solutions/
+├── index.html
+├── about.html
+├── services.html
+├── resources.html
+├── contact.html
+├── style.css
+└── images/ (hero.jpg, about-us.jpg, and service/resource images)
+text## How to Run
+1. Open the `index.html` file in any web browser.
+2. All pages are static and require no backend or installation.
 
-![Website Sitemap](img/mysitemap.png) <br> (The one here is only an example, include your own site map)
+## Design Highlights
+- Nature-inspired earthy colour palette (Forest Green #2E7D32, Earthy Brown #5D4037)
+- Card-based layout for services and resources
+- Strong focus on education and community impact
 
-## References
+## Author
+Built for Web Development Assignment
 
-Ensure that all sources used in your assignment are cited and referenced using the Harvard referencing style.
+## Date
+April 2026
